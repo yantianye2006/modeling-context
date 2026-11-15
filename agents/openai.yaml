@@ -1,0 +1,4 @@
+interface:
+  display_name: "Modeling Start"
+  short_description: "维护含 G0.5 结构诊断与证据门禁的数学建模上下文"
+  default_prompt: "使用 $modeling-context 读取赛题与附件，通过 G0.5 结构诊断建立并维护可追溯的 Obsidian 建模上下文。"
